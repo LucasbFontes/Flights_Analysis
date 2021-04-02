@@ -32,4 +32,4 @@ All of them have been answered, sometimes as a chart, sometimes as a pandas outp
 
 ## Conclusion
 
-This project is focused on showing my EDA skills, I also have others similar projects that you can see by clicking [here](https://github.com/LucasbFontes/Exploratory-Data-Analysis), if you want to see the flights EDA that I explained in this readme, just click here
+This project is focused on showing my EDA skills, I also have others similar projects that you can see by clicking [here](https://github.com/LucasbFontes/Exploratory-Data-Analysis), if you want to see the flights EDA that I explained in this readme, just click [here](https://github.com/LucasbFontes/Flights_Analysis/blob/main/Flights.ipynb)
